@@ -1,4 +1,4 @@
-# Magic Constants [![Build Status](https://travis-ci.org/canuckistani/jp-async-storage.png)](https://travis-ci.org/canuckistani/node-magic-constants)
+# Magic Constants [![Build Status](https://travis-ci.org/canuckistani/node-magic-constants.png)](https://travis-ci.org/canuckistani/node-magic-constants)
 
 Adds some ( yes ) [PHP](http://php.net/manual/en/language.constants.predefined.php) / [Python](http://docs.python.org/library/inspect.html)-esque magic constants to the current module. Includes naive tests.
 

@@ -2,6 +2,10 @@
 
 Adds some ( yes ) [PHP-esque](http://php.net/manual/en/language.constants.predefined.php) / [Python](http://docs.python.org/library/inspect.html)-esque magic constants to the current module. Includes naive tests.
 
+#### Credits
+
+This code is almost completely based on [this Stackoverflow post](based on http://stackoverflow.com/questions/14172455/get-name-and-line-of-calling-function-in-node-js).
+
 #### Why???
 
 So you can write a logging function like this, for example:

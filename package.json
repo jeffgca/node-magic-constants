@@ -1,0 +1,15 @@
+{
+  "name": "magic-constants",
+  "version": "0.0.1",
+  "description": "Adds ability to reference the current function and line number as well as the caller's function name and line number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeff Griffiths ( @canuckistani )",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
